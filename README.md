@@ -1,3 +1,5 @@
+ECLIPSE IDE FRAMEWORK
+
 Using JavaFx/Scene Builder and JDBC which allows to search and display products information. 
 You need to create a Product table (ProductsDB, in MySQL), havingcolumns (Product ID, Name, Manufacture’s Name and Price Per Unit). 
 Populate the product table with yourfavorite products such as iPhone, Tablet, Mac Air, Pixel, Galaxy etc.
